@@ -14,7 +14,7 @@ This project focuses on analyzing car prices using a dataset that includes vario
 ## Tableau Dashboard
 The dataset has been visualized using **Tableau**, providing insights into car price trends, brand-wise price distribution, and other important aspects. You can explore the interactive Tableau dashboard at the following link:
 
-**[Tableau Dashboard Link](ADD_YOUR_TABLEAU_LINK_HERE)**
+**[Tableau Dashboard Link]([ADD_YOUR_TABLEAU_LINK_HERE](https://public.tableau.com/app/profile/mina.wahba/viz/Car_price_17417461472280/Dashboard1))**
 
 ## SQL Analysis
 The dataset was analyzed using SQL queries to extract valuable insights. Below are the key SQL queries used and their explanations:
