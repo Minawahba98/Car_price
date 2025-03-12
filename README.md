@@ -1,7 +1,7 @@
 # Car_price
 # Car Price Analysis Project
 
-![Project Screenshot](sandbox:/mnt/data/image.png)
+![Project Screenshot](2021-acura-nsx-los-angeles-cars-and-coffee-137.webp)
 
 ## Overview
 This project focuses on analyzing car prices using a dataset that includes various attributes such as brand, model, year, engine size, fuel type, transmission, mileage, doors, owner count, and price. The analysis was performed using SQL and Tableau for data visualization.
