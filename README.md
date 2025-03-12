@@ -124,7 +124,7 @@ ORDER BY Max_Price DESC;
    - Use `car_price_dataset.xlsx` to analyze the raw data further in Excel or Python.
 
 ## Project Screenshot
-![Project Screenshot](Screenshot 2025-03-11 223329.png)
+![Project Screenshot](tableau.png)
 
 ## Requirements
 - **Database Management System** (PostgreSQL, MySQL, or any SQL-based tool)
